@@ -1,15 +1,16 @@
 ModificationType: Addon
-Name: Empire Pacific Alliance No MechFactions
-Version: Inmutable
-SimpleDownloadLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/downloads/epa-9b-posfinaledition
+Name: EPA No MechFactions
+Version: I.01
+SimpleDownloadLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod/downloads/no-mechfaction-posfinaledition
 UIImageSourceLink: ''
 DiscordLink: ''
-ModDBLink: ''
+ModDBLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod
 NewsLink: https://github.com/GerardoDMBX/EmpirePacificAllianceNoMech
-DependenceName: C&C Rise of the reds EPA submod
+DependenceName: Rise Of The Reds
 S3HostLink: s3://empirepacificalliance
 S3BucketName: empirepacificalliance
 S3FolderName: C&CEPA_Addons/
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
