@@ -7,12 +7,13 @@ DiscordLink: ''
 ModDBLink: https://www.moddb.com/mods/rotrempire-pacific-alliance-submod
 NewsLink: https://github.com/GerardoDMBX/EmpirePacificAllianceNoMech
 DependenceName: Empire Pacific Alliance
-S3HostLink: gen.insave.ovh:9000
+S3HostLink: https://empirepacificalliance.s3.us-east-2.amazonaws.com/CNC_EPA/!!!!!!!!!!!!!!!!!ROTRJapan2BNoMechFactions.gib
 S3BucketName: empirepacificalliance
 S3FolderName: CNC_EPA
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
