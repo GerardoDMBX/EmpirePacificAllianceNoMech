@@ -9,10 +9,11 @@ NewsLink: https://github.com/GerardoDMBX/EmpirePacificAllianceNoMech
 DependenceName: Empire Pacific Alliance
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: empirepacificalliance
-S3FolderName: C&CEPA_Addons/
+S3FolderName: CNC_EPA
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
