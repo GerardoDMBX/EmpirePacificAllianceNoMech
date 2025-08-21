@@ -9,10 +9,11 @@ NewsLink: https://github.com/GerardoDMBX/EmpirePacificAllianceNoMech
 DependenceName: Empire Pacific Alliance
 S3HostLink: gen.insave.ovh:9001
 S3BucketName: rotrepa
-S3FolderName: rotrepa/CNC_EPAADON
+S3FolderName: CNC_EPAADON
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
